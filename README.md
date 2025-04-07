@@ -2,8 +2,10 @@
 1. Project Overview
 1.1 Project Title
 Machine Learning-Based Prediction and Optimization of Renewable Energy Production
+
 1.2 Summary of Project Topic and Background
 Renewable energy is crucial for reducing carbon emissions and achieving sustainability. However, predicting energy production from solar, wind, and hydro sources is challenging due to weather variations and seasonal patterns. Traditional forecasting models often fail to capture these complexities, whereas machine learning (ML) approaches offer higher accuracy by identifying patterns in historical data. This project applies ARIMA, LSTM, and XGBoost to develop predictive models for renewable energy production and optimize distribution. Using data from the National Renewable Energy Laboratory (NREL), this study will preprocess energy records by handling missing values, normalization, and trend analysis. Model accuracy will be evaluated using RMSE and R² scores to ensure reliable predictions. This research will provide valuable insights for policymakers and energy providers, aiding in better energy distribution planning. By integrating ML-based forecasting, the project aims to enhance efficiency and reliability in renewable energy integration.
+
 1.3 Research Question
 How can machine learning techniques be applied to improve the accuracy of renewable energy production forecasting and optimize energy distribution strategies?
 1.4 Project Objectives
@@ -14,10 +16,12 @@ How can machine learning techniques be applied to improve the accuracy of renewa
 •	Data Management & Security: Use GitHub for version control and OneDrive for secure backups.
 •	Insights for Policymakers: Provide recommendations for optimizing renewable energy integration based on model results.
 •	Final Report & Presentation: Summarize findings and present key insights for stakeholders.
+
 1.5 References
 1.	Hyndman, R.J. and Athanasopoulos, G., 2018. Forecasting: Principles and Practice. 2nd ed. Melbourne: OTexts. Available at: https://otexts.com/fpp2/ [Accessed 9 February 2025].
 2.	Makridakis, S., Spiliotis, E. and Assimakopoulos, V., 2020. The M4 Competition: Results, findings, conclusion and way forward. International Journal of Forecasting, 36(1), pp.54-74. Available at: https://www.sciencedirect.com/science/article/pii/S0169207019301128 [Accessed 9 February 2025].
 3.	Rahman, M.M. and Saha, T.K., 2022. Machine learning-based forecasting of renewable energy production: A review. Renewable Energy Reports, 8, pp.229-248. Available at: https://www.sciencedirect.com/science/article/pii/S2352484722000051 [Accessed 9 February 2025].
+   
 2. Project Plan: Task List and Timeline
 2.1 Task List
 Weeks	Start Date	End Date	Task	Task Description
